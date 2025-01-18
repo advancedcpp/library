@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+fc7f9d27f39c4f6c63ff2748b0681b72 CMakeFiles/DesktopApp_autogen

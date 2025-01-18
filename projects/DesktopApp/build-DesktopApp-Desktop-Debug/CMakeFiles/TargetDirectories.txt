@@ -1,0 +1,4 @@
+/home/a2zproviders/Desktop/cpp/core/projects/DesktopApp/build-DesktopApp-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/a2zproviders/Desktop/cpp/core/projects/DesktopApp/build-DesktopApp-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/a2zproviders/Desktop/cpp/core/projects/DesktopApp/build-DesktopApp-Desktop-Debug/CMakeFiles/DesktopApp.dir
+/home/a2zproviders/Desktop/cpp/core/projects/DesktopApp/build-DesktopApp-Desktop-Debug/CMakeFiles/DesktopApp_autogen.dir
