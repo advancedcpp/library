@@ -18,5 +18,5 @@ MainWindow::~MainWindow()
 void MainWindow::on_pushButton_clicked()
 {
     // This function is called when the button is clicked
-    QMessageBox::information(this, "Message", "Hello, World!");
+    ui->label->setText("Button Clicked!");
 }

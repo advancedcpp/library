@@ -24,7 +24,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>PushButton</string>
+     <string>Push Button</string>
     </property>
     <property name="autoDefault">
      <bool>false</bool>
